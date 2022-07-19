@@ -25,6 +25,8 @@ public class calcu{
    System.out.println("10. Tan function");
    System.out.println("11. Log function");
    System.out.println("12. Natural Log function");
+   System.out.println("12. Natural Log function");
+
 
                  System.out.print("Your Choice: ");
              
